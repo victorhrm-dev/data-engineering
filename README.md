@@ -10,3 +10,4 @@
   1. abrir o código no jupyter
   2. salvar as bases train.csv e test.csv na mesma pasta do arquivo ipynb ou alterar o caminho no 1 step do codigo
   3. executar os steps sequencialmente
+  4. será gerado um arquivo na pasta está o .ipynb que serve para upload no kaggle
